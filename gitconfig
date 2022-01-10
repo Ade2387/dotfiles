@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = debelle.a@gmail.com
+	name = Arno Debelle
